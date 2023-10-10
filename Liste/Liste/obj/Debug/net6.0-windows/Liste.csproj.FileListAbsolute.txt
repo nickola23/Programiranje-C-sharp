@@ -1,0 +1,16 @@
+D:\nikola.milanovic\Liste\Liste\bin\Debug\net6.0-windows\Liste.exe
+D:\nikola.milanovic\Liste\Liste\bin\Debug\net6.0-windows\Liste.deps.json
+D:\nikola.milanovic\Liste\Liste\bin\Debug\net6.0-windows\Liste.runtimeconfig.json
+D:\nikola.milanovic\Liste\Liste\bin\Debug\net6.0-windows\Liste.dll
+D:\nikola.milanovic\Liste\Liste\bin\Debug\net6.0-windows\Liste.pdb
+D:\nikola.milanovic\Liste\Liste\obj\Debug\net6.0-windows\Liste.Form1.resources
+D:\nikola.milanovic\Liste\Liste\obj\Debug\net6.0-windows\Liste.csproj.GenerateResource.cache
+D:\nikola.milanovic\Liste\Liste\obj\Debug\net6.0-windows\Liste.GeneratedMSBuildEditorConfig.editorconfig
+D:\nikola.milanovic\Liste\Liste\obj\Debug\net6.0-windows\Liste.AssemblyInfoInputs.cache
+D:\nikola.milanovic\Liste\Liste\obj\Debug\net6.0-windows\Liste.AssemblyInfo.cs
+D:\nikola.milanovic\Liste\Liste\obj\Debug\net6.0-windows\Liste.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\Liste\Liste\obj\Debug\net6.0-windows\Liste.dll
+D:\nikola.milanovic\Liste\Liste\obj\Debug\net6.0-windows\refint\Liste.dll
+D:\nikola.milanovic\Liste\Liste\obj\Debug\net6.0-windows\Liste.pdb
+D:\nikola.milanovic\Liste\Liste\obj\Debug\net6.0-windows\Liste.genruntimeconfig.cache
+D:\nikola.milanovic\Liste\Liste\obj\Debug\net6.0-windows\ref\Liste.dll

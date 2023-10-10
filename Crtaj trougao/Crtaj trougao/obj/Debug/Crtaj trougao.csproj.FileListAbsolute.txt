@@ -1,0 +1,10 @@
+D:\nikola.milanovic\Crtaj trougao\Crtaj trougao\obj\Debug\Crtaj trougao.csproj.AssemblyReference.cache
+D:\nikola.milanovic\Crtaj trougao\Crtaj trougao\obj\Debug\Crtaj_trougao.Form1.resources
+D:\nikola.milanovic\Crtaj trougao\Crtaj trougao\obj\Debug\Crtaj_trougao.Properties.Resources.resources
+D:\nikola.milanovic\Crtaj trougao\Crtaj trougao\obj\Debug\Crtaj trougao.csproj.GenerateResource.cache
+D:\nikola.milanovic\Crtaj trougao\Crtaj trougao\obj\Debug\Crtaj trougao.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\Crtaj trougao\Crtaj trougao\bin\Debug\Crtaj trougao.exe.config
+D:\nikola.milanovic\Crtaj trougao\Crtaj trougao\bin\Debug\Crtaj trougao.exe
+D:\nikola.milanovic\Crtaj trougao\Crtaj trougao\bin\Debug\Crtaj trougao.pdb
+D:\nikola.milanovic\Crtaj trougao\Crtaj trougao\obj\Debug\Crtaj trougao.exe
+D:\nikola.milanovic\Crtaj trougao\Crtaj trougao\obj\Debug\Crtaj trougao.pdb

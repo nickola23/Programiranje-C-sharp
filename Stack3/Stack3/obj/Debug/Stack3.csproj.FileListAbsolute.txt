@@ -1,0 +1,10 @@
+D:\nikola.milanovic\c#\Stack3\Stack3\bin\Debug\Stack3.exe.config
+D:\nikola.milanovic\c#\Stack3\Stack3\bin\Debug\Stack3.exe
+D:\nikola.milanovic\c#\Stack3\Stack3\bin\Debug\Stack3.pdb
+D:\nikola.milanovic\c#\Stack3\Stack3\obj\Debug\Stack3.csproj.AssemblyReference.cache
+D:\nikola.milanovic\c#\Stack3\Stack3\obj\Debug\Stack3.Form1.resources
+D:\nikola.milanovic\c#\Stack3\Stack3\obj\Debug\Stack3.Properties.Resources.resources
+D:\nikola.milanovic\c#\Stack3\Stack3\obj\Debug\Stack3.csproj.GenerateResource.cache
+D:\nikola.milanovic\c#\Stack3\Stack3\obj\Debug\Stack3.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\c#\Stack3\Stack3\obj\Debug\Stack3.exe
+D:\nikola.milanovic\c#\Stack3\Stack3\obj\Debug\Stack3.pdb

@@ -1,0 +1,10 @@
+D:\nikola.milanovic\Genericke klase\Genericke klase\bin\Debug\Genericke klase.exe.config
+D:\nikola.milanovic\Genericke klase\Genericke klase\bin\Debug\Genericke klase.exe
+D:\nikola.milanovic\Genericke klase\Genericke klase\bin\Debug\Genericke klase.pdb
+D:\nikola.milanovic\Genericke klase\Genericke klase\obj\Debug\Genericke klase.csproj.AssemblyReference.cache
+D:\nikola.milanovic\Genericke klase\Genericke klase\obj\Debug\Genericke_klase.Form1.resources
+D:\nikola.milanovic\Genericke klase\Genericke klase\obj\Debug\Genericke_klase.Properties.Resources.resources
+D:\nikola.milanovic\Genericke klase\Genericke klase\obj\Debug\Genericke klase.csproj.GenerateResource.cache
+D:\nikola.milanovic\Genericke klase\Genericke klase\obj\Debug\Genericke klase.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\Genericke klase\Genericke klase\obj\Debug\Genericke klase.exe
+D:\nikola.milanovic\Genericke klase\Genericke klase\obj\Debug\Genericke klase.pdb

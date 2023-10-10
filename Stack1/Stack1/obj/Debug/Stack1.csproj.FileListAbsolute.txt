@@ -1,0 +1,10 @@
+D:\nikola.milanovic\Stack1\Stack1\bin\Debug\Stack1.exe.config
+D:\nikola.milanovic\Stack1\Stack1\bin\Debug\Stack1.exe
+D:\nikola.milanovic\Stack1\Stack1\bin\Debug\Stack1.pdb
+D:\nikola.milanovic\Stack1\Stack1\obj\Debug\Stack1.csproj.AssemblyReference.cache
+D:\nikola.milanovic\Stack1\Stack1\obj\Debug\Stack1.Form1.resources
+D:\nikola.milanovic\Stack1\Stack1\obj\Debug\Stack1.Properties.Resources.resources
+D:\nikola.milanovic\Stack1\Stack1\obj\Debug\Stack1.csproj.GenerateResource.cache
+D:\nikola.milanovic\Stack1\Stack1\obj\Debug\Stack1.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\Stack1\Stack1\obj\Debug\Stack1.exe
+D:\nikola.milanovic\Stack1\Stack1\obj\Debug\Stack1.pdb
