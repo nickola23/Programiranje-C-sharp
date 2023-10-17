@@ -1,0 +1,10 @@
+D:\nikola.milanovic\c#\Genericke liste\Genericke liste\bin\Debug\Genericke liste.exe.config
+D:\nikola.milanovic\c#\Genericke liste\Genericke liste\bin\Debug\Genericke liste.exe
+D:\nikola.milanovic\c#\Genericke liste\Genericke liste\bin\Debug\Genericke liste.pdb
+D:\nikola.milanovic\c#\Genericke liste\Genericke liste\obj\Debug\Genericke liste.csproj.AssemblyReference.cache
+D:\nikola.milanovic\c#\Genericke liste\Genericke liste\obj\Debug\Genericke_liste.Form1.resources
+D:\nikola.milanovic\c#\Genericke liste\Genericke liste\obj\Debug\Genericke_liste.Properties.Resources.resources
+D:\nikola.milanovic\c#\Genericke liste\Genericke liste\obj\Debug\Genericke liste.csproj.GenerateResource.cache
+D:\nikola.milanovic\c#\Genericke liste\Genericke liste\obj\Debug\Genericke liste.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\c#\Genericke liste\Genericke liste\obj\Debug\Genericke liste.exe
+D:\nikola.milanovic\c#\Genericke liste\Genericke liste\obj\Debug\Genericke liste.pdb
