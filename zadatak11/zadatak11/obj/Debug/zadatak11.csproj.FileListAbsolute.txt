@@ -1,0 +1,10 @@
+D:\nikola.milanovic\c#\zadatak11\zadatak11\bin\Debug\zadatak11.exe.config
+D:\nikola.milanovic\c#\zadatak11\zadatak11\bin\Debug\zadatak11.exe
+D:\nikola.milanovic\c#\zadatak11\zadatak11\bin\Debug\zadatak11.pdb
+D:\nikola.milanovic\c#\zadatak11\zadatak11\obj\Debug\zadatak11.csproj.AssemblyReference.cache
+D:\nikola.milanovic\c#\zadatak11\zadatak11\obj\Debug\zadatak11.Form1.resources
+D:\nikola.milanovic\c#\zadatak11\zadatak11\obj\Debug\zadatak11.Properties.Resources.resources
+D:\nikola.milanovic\c#\zadatak11\zadatak11\obj\Debug\zadatak11.csproj.GenerateResource.cache
+D:\nikola.milanovic\c#\zadatak11\zadatak11\obj\Debug\zadatak11.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\c#\zadatak11\zadatak11\obj\Debug\zadatak11.exe
+D:\nikola.milanovic\c#\zadatak11\zadatak11\obj\Debug\zadatak11.pdb

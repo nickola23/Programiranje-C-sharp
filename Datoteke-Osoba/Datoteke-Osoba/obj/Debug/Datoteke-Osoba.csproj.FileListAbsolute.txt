@@ -1,0 +1,10 @@
+D:\nikola.milanovic\c#\Datoteke-Osoba\Datoteke-Osoba\bin\Debug\Datoteke-Osoba.exe.config
+D:\nikola.milanovic\c#\Datoteke-Osoba\Datoteke-Osoba\bin\Debug\Datoteke-Osoba.exe
+D:\nikola.milanovic\c#\Datoteke-Osoba\Datoteke-Osoba\bin\Debug\Datoteke-Osoba.pdb
+D:\nikola.milanovic\c#\Datoteke-Osoba\Datoteke-Osoba\obj\Debug\Datoteke-Osoba.csproj.AssemblyReference.cache
+D:\nikola.milanovic\c#\Datoteke-Osoba\Datoteke-Osoba\obj\Debug\Datoteke_Osoba.Form1.resources
+D:\nikola.milanovic\c#\Datoteke-Osoba\Datoteke-Osoba\obj\Debug\Datoteke_Osoba.Properties.Resources.resources
+D:\nikola.milanovic\c#\Datoteke-Osoba\Datoteke-Osoba\obj\Debug\Datoteke-Osoba.csproj.GenerateResource.cache
+D:\nikola.milanovic\c#\Datoteke-Osoba\Datoteke-Osoba\obj\Debug\Datoteke-Osoba.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\c#\Datoteke-Osoba\Datoteke-Osoba\obj\Debug\Datoteke-Osoba.exe
+D:\nikola.milanovic\c#\Datoteke-Osoba\Datoteke-Osoba\obj\Debug\Datoteke-Osoba.pdb

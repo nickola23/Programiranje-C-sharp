@@ -1,0 +1,10 @@
+D:\nikola.milanovic\c#\Datoteke\Datoteke\bin\Debug\Datoteke.exe.config
+D:\nikola.milanovic\c#\Datoteke\Datoteke\bin\Debug\Datoteke.exe
+D:\nikola.milanovic\c#\Datoteke\Datoteke\bin\Debug\Datoteke.pdb
+D:\nikola.milanovic\c#\Datoteke\Datoteke\obj\Debug\Datoteke.csproj.AssemblyReference.cache
+D:\nikola.milanovic\c#\Datoteke\Datoteke\obj\Debug\Datoteke.Form1.resources
+D:\nikola.milanovic\c#\Datoteke\Datoteke\obj\Debug\Datoteke.Properties.Resources.resources
+D:\nikola.milanovic\c#\Datoteke\Datoteke\obj\Debug\Datoteke.csproj.GenerateResource.cache
+D:\nikola.milanovic\c#\Datoteke\Datoteke\obj\Debug\Datoteke.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\c#\Datoteke\Datoteke\obj\Debug\Datoteke.exe
+D:\nikola.milanovic\c#\Datoteke\Datoteke\obj\Debug\Datoteke.pdb

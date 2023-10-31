@@ -1,0 +1,10 @@
+D:\nikola.milanovic\c#\Interface2\Interface2\bin\Debug\Interface2.exe.config
+D:\nikola.milanovic\c#\Interface2\Interface2\bin\Debug\Interface2.exe
+D:\nikola.milanovic\c#\Interface2\Interface2\bin\Debug\Interface2.pdb
+D:\nikola.milanovic\c#\Interface2\Interface2\obj\Debug\Interface2.csproj.AssemblyReference.cache
+D:\nikola.milanovic\c#\Interface2\Interface2\obj\Debug\Interface2.Form1.resources
+D:\nikola.milanovic\c#\Interface2\Interface2\obj\Debug\Interface2.Properties.Resources.resources
+D:\nikola.milanovic\c#\Interface2\Interface2\obj\Debug\Interface2.csproj.GenerateResource.cache
+D:\nikola.milanovic\c#\Interface2\Interface2\obj\Debug\Interface2.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\c#\Interface2\Interface2\obj\Debug\Interface2.exe
+D:\nikola.milanovic\c#\Interface2\Interface2\obj\Debug\Interface2.pdb
