@@ -1,0 +1,10 @@
+D:\nikola.milanovic\c#\DatumZaposleni\bin\Debug\DatumZaposleni.exe.config
+D:\nikola.milanovic\c#\DatumZaposleni\bin\Debug\DatumZaposleni.exe
+D:\nikola.milanovic\c#\DatumZaposleni\bin\Debug\DatumZaposleni.pdb
+D:\nikola.milanovic\c#\DatumZaposleni\obj\Debug\DatumZaposleni.csproj.AssemblyReference.cache
+D:\nikola.milanovic\c#\DatumZaposleni\obj\Debug\DatumZaposleni.Form1.resources
+D:\nikola.milanovic\c#\DatumZaposleni\obj\Debug\DatumZaposleni.Properties.Resources.resources
+D:\nikola.milanovic\c#\DatumZaposleni\obj\Debug\DatumZaposleni.csproj.GenerateResource.cache
+D:\nikola.milanovic\c#\DatumZaposleni\obj\Debug\DatumZaposleni.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\c#\DatumZaposleni\obj\Debug\DatumZaposleni.exe
+D:\nikola.milanovic\c#\DatumZaposleni\obj\Debug\DatumZaposleni.pdb
