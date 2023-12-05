@@ -1,0 +1,10 @@
+D:\nikola.milanovic\c#\DatumVreme\bin\Debug\DatumVreme.exe.config
+D:\nikola.milanovic\c#\DatumVreme\bin\Debug\DatumVreme.exe
+D:\nikola.milanovic\c#\DatumVreme\bin\Debug\DatumVreme.pdb
+D:\nikola.milanovic\c#\DatumVreme\obj\Debug\DatumVreme.csproj.AssemblyReference.cache
+D:\nikola.milanovic\c#\DatumVreme\obj\Debug\DatumVreme.Form1.resources
+D:\nikola.milanovic\c#\DatumVreme\obj\Debug\DatumVreme.Properties.Resources.resources
+D:\nikola.milanovic\c#\DatumVreme\obj\Debug\DatumVreme.csproj.GenerateResource.cache
+D:\nikola.milanovic\c#\DatumVreme\obj\Debug\DatumVreme.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\c#\DatumVreme\obj\Debug\DatumVreme.exe
+D:\nikola.milanovic\c#\DatumVreme\obj\Debug\DatumVreme.pdb
