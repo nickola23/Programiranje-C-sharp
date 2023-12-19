@@ -1,0 +1,12 @@
+D:\nikola.milanovic\c#\QRcodeGenerator\bin\Debug\QRcodeGenerator.exe.config
+D:\nikola.milanovic\c#\QRcodeGenerator\bin\Debug\QRcodeGenerator.exe
+D:\nikola.milanovic\c#\QRcodeGenerator\bin\Debug\QRcodeGenerator.pdb
+D:\nikola.milanovic\c#\QRcodeGenerator\bin\Debug\QRCoder.dll
+D:\nikola.milanovic\c#\QRcodeGenerator\obj\Debug\QRcodeGenerator.csproj.AssemblyReference.cache
+D:\nikola.milanovic\c#\QRcodeGenerator\obj\Debug\QRcodeGenerator.Form1.resources
+D:\nikola.milanovic\c#\QRcodeGenerator\obj\Debug\QRcodeGenerator.Properties.Resources.resources
+D:\nikola.milanovic\c#\QRcodeGenerator\obj\Debug\QRcodeGenerator.csproj.GenerateResource.cache
+D:\nikola.milanovic\c#\QRcodeGenerator\obj\Debug\QRcodeGenerator.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\c#\QRcodeGenerator\obj\Debug\QRcodeGenerator.csproj.CopyComplete
+D:\nikola.milanovic\c#\QRcodeGenerator\obj\Debug\QRcodeGenerator.exe
+D:\nikola.milanovic\c#\QRcodeGenerator\obj\Debug\QRcodeGenerator.pdb
