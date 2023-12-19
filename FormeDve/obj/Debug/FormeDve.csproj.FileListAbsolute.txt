@@ -1,0 +1,11 @@
+D:\nikola.milanovic\c#\FormeDve\bin\Debug\FormeDve.exe.config
+D:\nikola.milanovic\c#\FormeDve\bin\Debug\FormeDve.exe
+D:\nikola.milanovic\c#\FormeDve\bin\Debug\FormeDve.pdb
+D:\nikola.milanovic\c#\FormeDve\obj\Debug\FormeDve.csproj.AssemblyReference.cache
+D:\nikola.milanovic\c#\FormeDve\obj\Debug\FormeDve.Form1.resources
+D:\nikola.milanovic\c#\FormeDve\obj\Debug\FormeDve.Form2.resources
+D:\nikola.milanovic\c#\FormeDve\obj\Debug\FormeDve.Properties.Resources.resources
+D:\nikola.milanovic\c#\FormeDve\obj\Debug\FormeDve.csproj.GenerateResource.cache
+D:\nikola.milanovic\c#\FormeDve\obj\Debug\FormeDve.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\c#\FormeDve\obj\Debug\FormeDve.exe
+D:\nikola.milanovic\c#\FormeDve\obj\Debug\FormeDve.pdb
