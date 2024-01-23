@@ -1,0 +1,10 @@
+D:\nikola.milanovic\c#\PovezivanjeSaBazom\bin\Debug\PovezivanjeSaBazom.exe.config
+D:\nikola.milanovic\c#\PovezivanjeSaBazom\bin\Debug\PovezivanjeSaBazom.exe
+D:\nikola.milanovic\c#\PovezivanjeSaBazom\bin\Debug\PovezivanjeSaBazom.pdb
+D:\nikola.milanovic\c#\PovezivanjeSaBazom\obj\Debug\PovezivanjeSaBazom.csproj.AssemblyReference.cache
+D:\nikola.milanovic\c#\PovezivanjeSaBazom\obj\Debug\PovezivanjeSaBazom.Form1.resources
+D:\nikola.milanovic\c#\PovezivanjeSaBazom\obj\Debug\PovezivanjeSaBazom.Properties.Resources.resources
+D:\nikola.milanovic\c#\PovezivanjeSaBazom\obj\Debug\PovezivanjeSaBazom.csproj.GenerateResource.cache
+D:\nikola.milanovic\c#\PovezivanjeSaBazom\obj\Debug\PovezivanjeSaBazom.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\c#\PovezivanjeSaBazom\obj\Debug\PovezivanjeSaBazom.exe
+D:\nikola.milanovic\c#\PovezivanjeSaBazom\obj\Debug\PovezivanjeSaBazom.pdb
