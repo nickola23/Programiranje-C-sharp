@@ -1,0 +1,117 @@
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.exe.config
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.exe
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.pdb
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.AssemblyReference.cache
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form1.resources
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert_Update_Delete.Properties.Resources.resources
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.GenerateResource.cache
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.CoreCompileInputs.cache
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.exe
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.pdb
+F:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.exe.config
+F:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.exe
+F:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.pdb
+F:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csprojAssemblyReference.cache
+F:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form1.resources
+F:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert_Update_Delete.Properties.Resources.resources
+F:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.GenerateResource.cache
+F:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.CoreCompileInputs.cache
+F:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.exe
+F:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.pdb
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.exe.config
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.exe
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.pdb
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.AssemblyReference.cache
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form1.resources
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert_Update_Delete.Properties.Resources.resources
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.GenerateResource.cache
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.CoreCompileInputs.cache
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.exe
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\PREDAVANJA 2021-2022\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.pdb
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.exe.config
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.exe
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.pdb
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.AssemblyReference.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.SuggestedBindingRedirects.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form1.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert_Update_Delete.Properties.Resources.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.GenerateResource.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.CoreCompileInputs.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.exe
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.pdb
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.exe.config
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.exe
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.pdb
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.AssemblyReference.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.SuggestedBindingRedirects.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form1.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert_Update_Delete.Properties.Resources.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.GenerateResource.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.CoreCompileInputs.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.exe
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.pdb
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.exe.config
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.exe
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\bin\Debug\Insert Update Delete.pdb
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.AssemblyReference.cache
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form1.resources
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert_Update_Delete.Properties.Resources.resources
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.GenerateResource.cache
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.CoreCompileInputs.cache
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.exe
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe\1. Radnici, odeljenja, osiguranja\Insert Update Delete\Insert Update Delete\obj\Debug\Insert Update Delete.pdb
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2 - Copy\Insert Update Delete\bin\Debug\Insert Update Delete.exe.config
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2 - Copy\Insert Update Delete\bin\Debug\Insert Update Delete.exe
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2 - Copy\Insert Update Delete\bin\Debug\Insert Update Delete.pdb
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2 - Copy\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.AssemblyReference.cache
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2 - Copy\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form1.resources
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2 - Copy\Insert Update Delete\obj\Debug\Insert_Update_Delete.Properties.Resources.resources
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2 - Copy\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.GenerateResource.cache
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2 - Copy\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.CoreCompileInputs.cache
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2 - Copy\Insert Update Delete\obj\Debug\Insert Update Delete.exe
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2 - Copy\Insert Update Delete\obj\Debug\Insert Update Delete.pdb
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\bin\Debug\Insert Update Delete.exe.config
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\bin\Debug\Insert Update Delete.exe
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\bin\Debug\Insert Update Delete.pdb
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form1.resources
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form2.resources
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert_Update_Delete.Properties.Resources.resources
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.GenerateResource.cache
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.CoreCompileInputs.cache
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.exe
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.pdb
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.AssemblyReference.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\bin\Debug\Insert Update Delete.exe.config
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\bin\Debug\Insert Update Delete.exe
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\bin\Debug\Insert Update Delete.pdb
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.AssemblyReference.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.SuggestedBindingRedirects.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form1.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form2.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert_Update_Delete.Properties.Resources.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.GenerateResource.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.CoreCompileInputs.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.exe
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.pdb
+C:\Users\Racunar\Desktop\Programiranje IV-3\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.AssemblyReference.cache
+C:\Users\Racunar\Desktop\Programiranje IV-3\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form1.resources
+C:\Users\Racunar\Desktop\Programiranje IV-3\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form2.resources
+C:\Users\Racunar\Desktop\Programiranje IV-3\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert_Update_Delete.Properties.Resources.resources
+C:\Users\Racunar\Desktop\Programiranje IV-3\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.GenerateResource.cache
+C:\Users\Racunar\Desktop\Programiranje IV-3\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.CoreCompileInputs.cache
+C:\Users\Racunar\Desktop\Programiranje IV-3\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.exe
+C:\Users\Racunar\Desktop\Programiranje IV-3\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\obj\Debug\Insert Update Delete.pdb
+C:\Users\Racunar\Desktop\Programiranje IV-3\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\bin\Debug\Insert Update Delete.exe.config
+C:\Users\Racunar\Desktop\Programiranje IV-3\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\bin\Debug\Insert Update Delete.exe
+C:\Users\Racunar\Desktop\Programiranje IV-3\14. Baze podataka\Vežbe 2022-2023\2. Insert Update Delete-2\Insert Update Delete\bin\Debug\Insert Update Delete.pdb
+D:\nikola.milanovic\c#\2. Insert Update Delete-forma\Insert Update Delete\bin\Debug\Insert Update Delete.exe.config
+D:\nikola.milanovic\c#\2. Insert Update Delete-forma\Insert Update Delete\bin\Debug\Insert Update Delete.exe
+D:\nikola.milanovic\c#\2. Insert Update Delete-forma\Insert Update Delete\bin\Debug\Insert Update Delete.pdb
+D:\nikola.milanovic\c#\2. Insert Update Delete-forma\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.AssemblyReference.cache
+D:\nikola.milanovic\c#\2. Insert Update Delete-forma\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form1.resources
+D:\nikola.milanovic\c#\2. Insert Update Delete-forma\Insert Update Delete\obj\Debug\Insert_Update_Delete.Form2.resources
+D:\nikola.milanovic\c#\2. Insert Update Delete-forma\Insert Update Delete\obj\Debug\Insert_Update_Delete.Properties.Resources.resources
+D:\nikola.milanovic\c#\2. Insert Update Delete-forma\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.GenerateResource.cache
+D:\nikola.milanovic\c#\2. Insert Update Delete-forma\Insert Update Delete\obj\Debug\Insert Update Delete.csproj.CoreCompileInputs.cache
+D:\nikola.milanovic\c#\2. Insert Update Delete-forma\Insert Update Delete\obj\Debug\Insert Update Delete.exe
+D:\nikola.milanovic\c#\2. Insert Update Delete-forma\Insert Update Delete\obj\Debug\Insert Update Delete.pdb
